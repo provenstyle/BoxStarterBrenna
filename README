@@ -1,3 +1,4 @@
 #Box Starter Script For Brenna's Machine
 
-START http://boxstarter.org/package/nr/url?
+
+START http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/provenstyle/BoxStarterBrenna/master/BoxStarterBrenna.ps1

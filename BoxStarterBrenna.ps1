@@ -1,4 +1,4 @@
- Set-WindowsExplorerOptions -EnableShowFileExtensions
+Set-WindowsExplorerOptions -EnableShowFileExtensions
 
 choco install GoogleChrome
 choco install 
